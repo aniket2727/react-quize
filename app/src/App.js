@@ -15,10 +15,11 @@ import Useeffect from './componets/Useeffect';
 import Accessbooks from './componets/Accessbooks';
 import Imageupload from './componets/Imageupload';
 import Imagedisplay from './componets/Imagedisplay';
+import Reducer from './componets/Reducer';
 const App = () => {
   return (
     <div>
-       <Imagedisplay/>
+       <Reducer/>
     </div>
   );
 }
